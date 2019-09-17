@@ -11,7 +11,7 @@
 - あお　　　 Ao : Blue
 - あか      Aka : Red
 - き        Ki : Yellow (although, we usually say Ki-iro as for colour yellow because ki also means a tree)
-- みどり    Midori : Green
-- むらさき  Murasaki : Purple 
-- おれんじ  Orenji : Orange
-- ちゃ     Cha : Brown (Brown is Cha-iro since "cha" also means tea) 
+- みどり     Midori : Green
+- むらさき   Murasaki : Purple 
+- おれんじ   Orenji : Orange
+- ちゃ      Cha : Brown (Brown is Cha-iro since "cha" also means tea) 
