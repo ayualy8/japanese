@@ -1,10 +1,10 @@
-#Greetings 
+# Greetings 
 - おはよう　　Ohayo : Good morning 
 - こんにちは　Konnichiwa: Good afternoon, hello
 - こんばんは　Konbanwa: Good evening 
 - おやすみ　　Oyasumi: Good night 
 
-#Colours 
+# Colours 
 - いろ      Iro (Ilo) : Colour
 - くろ      Kuro : Black
 - しろ      Shiro : White 
