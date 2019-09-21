@@ -30,7 +30,7 @@
 # Useful sayings 
 - ありがとう　  　　Arigatou: Thank you
 - どういたしまして  Douitashimashite: You are welcome
-- ...ください　    Kudasai Give me... (example:  うどん ください: plz give me Udon)
+- ...ください　    Kudasai Give me... (example:  うどん ください: plz give me Udon, みず　ください: plz give me a glass of water)
 - おねがい　　　　　Onegai : Please, or Onegai shimasu (おねがいします) for more polite way to say it
 - だいすきだよ　　　Daisukidayo : I big like you, I like you a lot, (you can also say that to your family or pets) 
 - あいしてるよ　　　Aishiteruyo : or aishiteru, I love you, usually to your partner, parents say this to their children too
