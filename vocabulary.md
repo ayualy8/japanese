@@ -21,7 +21,7 @@
 - ねむい　   　　Nemui : Sleepy 
 - さむい　  　 　Samui : Cold (temperture of the air) 
 - つかれた 　  　Tsukareta : Tired 
-- あつい        Atsui : Hot
+- あつい         Atsui : Hot
 - あたたかい　　　Atatakai : Warm
 - おなかすいた　  Onaka Suita : hungry (Onaka = Stomach, suita = empty) 
 - おなかいっぱい  Onaka Ippai : full (after eating, ippai = full)
