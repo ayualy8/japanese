@@ -3,6 +3,8 @@
 - こんにちは　Konnichiwa: Good afternoon, hello
 - こんばんは　Konbanwa: Good evening 
 - おやすみ　　Oyasumi: Good night 
+- またね     Matane: See you layer
+- さよなら　　Sayonara: Goodbye
 
 # Colours 
 - いろ      Iro (Ilo) : Colour
@@ -14,7 +16,9 @@
 - みどり     Midori : Green
 - むらさき   Murasaki : Purple 
 - おれんじ   Orenji : Orange
-- ちゃ      Cha : Brown (Brown is Cha-iro since "cha" also means tea) 
+- ちゃ      Cha : Brown (Brown is Cha-iro since "cha" also means tea)
+- ぎん　　　 Gin: Silver
+- きん　　   Kin: Gold 
 
 # Meep (all adjectives) 
 - げんき　  　 　Genki : Fine (condition wise) 
