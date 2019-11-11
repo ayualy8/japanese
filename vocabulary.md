@@ -3,7 +3,7 @@
 - こんにちは　Konnichiwa: Good afternoon, hello
 - こんばんは　Konbanwa: Good evening 
 - おやすみ　　Oyasumi: Good night 
-- またね     Matane: See you layer
+- またね     Matane: See you later
 - さよなら　　Sayonara: Goodbye
 
 # Colours 
