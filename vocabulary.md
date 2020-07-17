@@ -40,3 +40,4 @@
 - あいしてるよ　　　Aishiteruyo : or aishiteru, I love you, usually to your partner, parents say this to their children too
 - がんばれ!!　　　 Ganbare : You can do it!! 
 - よいいちにちを　　Yoi Ishinichi wo: Have a good day, (yoi = good, ichinichi = 1 day)
+- あいたいよ       Aitaiyo : I miss you, I wanna see you
